@@ -17,7 +17,7 @@ export default [
             'admin/words.js',
             'admin/admin.d.ts',
             '**/adapter-config.d.ts',
-            'lib/leaf-connect/lib/**',     
+            'lib/leaf-connect/lib/',     
         ]
     },
 
