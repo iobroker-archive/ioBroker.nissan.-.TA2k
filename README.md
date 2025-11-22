@@ -32,8 +32,7 @@ Feel free to follow the discussions in the german [iobroker forum](https://forum
 	Placeholder for the next version (at the beginning of the line):
 	### **WORK IN PROGRESS**
 -->
-
-### **WORK IN PROGRESS**
+### 0.1.17-alpha.0 (2025-11-22)
 - (bolliy) dependency and configuration updates
 - (booliy) NPM: migration to trusted publishing
 
